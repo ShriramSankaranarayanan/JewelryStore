@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <UserDetails>
+    <Id>1</Id>
+    <UserName>ALEX</UserName>
+    <Password>Test123</Password>
+    <UserCategory>Normal</UserCategory>
+  </UserDetails>
+  <UserDetails>
+    <Id>2</Id>
+    <UserName>Shriram</UserName>
+    <Password>Test</Password>
+    <UserCategory>Privileged</UserCategory>
+  </UserDetails>
+</Table>

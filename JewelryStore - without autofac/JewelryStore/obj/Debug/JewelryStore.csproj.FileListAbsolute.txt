@@ -1,0 +1,9 @@
+D:\Programming\JewelryStore\JewelryStore\bin\Debug\JewelryStore.exe.config
+D:\Programming\JewelryStore\JewelryStore\bin\Debug\JewelryStore.exe
+D:\Programming\JewelryStore\JewelryStore\bin\Debug\JewelryStore.pdb
+D:\Programming\JewelryStore\JewelryStore\obj\Debug\JewelryStore.csprojAssemblyReference.cache
+D:\Programming\JewelryStore\JewelryStore\obj\Debug\JewelryStore.Messages.resources
+D:\Programming\JewelryStore\JewelryStore\obj\Debug\JewelryStore.csproj.GenerateResource.cache
+D:\Programming\JewelryStore\JewelryStore\obj\Debug\JewelryStore.csproj.CoreCompileInputs.cache
+D:\Programming\JewelryStore\JewelryStore\obj\Debug\JewelryStore.exe
+D:\Programming\JewelryStore\JewelryStore\obj\Debug\JewelryStore.pdb
